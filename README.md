@@ -6,6 +6,7 @@ This is a website that will be used as a tour in Chicago's chinatown with the Ch
 Keith Bateman
 Aury Bwashi (formerly)
 Jue Huang
+Divin Gregis Baniekona
 
 ## Requirements
 - Vex, jquery, bootstrap, etc. (included in public/javascripts)
